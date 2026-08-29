@@ -1,2 +1,2 @@
 # Obby_Pro_Max
-
+Our game is a very special little 2D game since it stars Beeve, Steve from minecraft's brother, and his tnt chickens. You will first spawn in your house and make your way out to the farm after an easy obby which lies something secret inside. After that, you'll have to go through a maze-like obby. It is quite challenging, but we might be able to help you along the way. We made this game just because we needed to. How did we make it? It was pure chaos, so please do not ask.
